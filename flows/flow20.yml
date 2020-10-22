@@ -1,0 +1,27 @@
+completion_text: |-
+  <p>asdasd</p>
+description: |-
+  asdasdas d
+next_flow_id: quiz21
+next_flow_title: quizzzz
+pages:
+- content: |-
+    <p>asdasd</p>
+  id: intro
+  title: Inicio
+  type: Page
+- content: |-
+    <p>asdasd asd asd</p>
+  id: page43
+  title: dia 1
+  type: Page
+rules:
+  access:
+  - if_has_role:
+    - ta
+    - student
+    - instructor
+    permissions:
+    - view
+  grade_identifier: null
+title: Semana 1
