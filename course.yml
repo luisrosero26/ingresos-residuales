@@ -1,0 +1,14 @@
+chunks:
+- content: ''
+  flows:
+  - flow_id: flow20
+    next_flow: quiz21
+    pages:
+    - flow_id: page43
+      title: dia 1
+    title: Semana 1
+    title_next_flow: quizzzz
+  id: welcome
+  introduction: <p>zcdasdasdasda sdasd</p>
+  rules: []
+  title: Ingresos residuales
